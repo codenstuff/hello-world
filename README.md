@@ -1,5 +1,8 @@
-# hello-world
-Ye olde repository.
+# Welcome!
 
-My name is Jesse and I'm here to explore languages such as Javascript, Java, and C++.
-I spend a lot of time banging about on my guitar and binge-watching Netflix.
+My name is Jesse and I'm a UMD graduate with a bachelor's in CS.
+
+Things I'm currently working on:
++ *Node.js and Socket.io messaging*
++ *Android development*
++ *Data visualization*
